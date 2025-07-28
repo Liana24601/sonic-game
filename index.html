@@ -1,25 +1,10 @@
 <head>
+  <meta charset="UTF-8" />
   <title>Sprinting to Sonic: A Maze Game</title>
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      background: black;
-      overflow: hidden;
-    }
-    canvas {
-      display: block;
-      background-color: #000;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<canvas id="gameCanvas" width="960" height="540"></canvas>
-
-<script>
-const canvas = document.getElementById("gameCanvas");
-const ctx = canvas.getContext("2d");
-
-const images = {};
-const imageNames = ["sonic", "shadow", "amy", "gem", "eggman", "eggman_explode", "lake", "maze", "desert", "forest", "sky", "wedding"];
-let loadedImages = 0;
+  <div id="start-screen" class="scene">
+    <h1>Sprinting to Sonic: A Maze Game</h1>
+    <button onclick="startGame()">START!!</button>
+  </div>
