@@ -15,4 +15,52 @@ In "Sprinting to Sonic", I decided to take all the things I admire about the fra
 Thus, coding, storyboarding, and creating this game was a beautiful experience, as I was able to experiment and tamper with a single, compelling notion: what are the legnths Shadow would go to in order to see Sonic?
 The answer, to my surprise, turned out to be "everything."
 
+What Does This Game Have?
+- Beautiful graphics & pixel art (which I made lol)
+- Witty banter and dialogue
+- Elements from the old Sonic games :)
+- A Snapcube reference (iykyk)
+- A certainly surprising main storyline for sure
+- Both simple AND challenging game levels
+- A short timeframe so you can enjoy it quickly :D
+- Dr. Eggman, of course <3
+- A heartwarming and satisfying ending imo
+
+How to Play:
+- It's pretty simple!
+- Use the arrow keys to maneuver Shadow out of the maze 
+- Enjoy!
+
+Take a sneak peek! - add screenshot image
+
+((game link on itch.io))
+
+SCRIPT:
+
+*It starts on a black screen with white words: "Sprinting to Sonic: A Maze Game"*
+*The game starts when you click a blue button that says "START!!"
+*Shadow sits alone in the forest. Amy approaches him while running.*
+
+AMY: Shadow! You're late!
+SHADOW: Hmph!
+SHADOW: I am the Ultimate Lifeform.
+Shadow: Matters of time mean nothing to me.
+SHADOW: ...
+SHADOW: What am I late for again?
+AMY: Duh! Your wedding!
+SHADOW: WEDDING?!
+AMY: Yeah. Sonic has been waiting at the altar for hours-
+SHADOW: SONIC?!
+SHADOW: THAT IDIOT?
+SHADOW: THAT STUBBORN PRICK?
+SHADOW: THAT ARROGANT BLUE GUY WHO THINKS HE'S BETTER THAN ME?
+SHADOW: UGH.
+AMY: Oh.
+AMY: So..you're not gonna marry him?
+SHADOW: ...
+SHADOW: Don't be preposterous, Amy Rose.
+SHADOW: Of course I am. Let'g go.
+
+*Scene changes. Shadow finds himself in a maze in the sky*
+
 */
