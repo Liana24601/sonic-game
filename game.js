@@ -1,20 +1,22 @@
-body {
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: black;
-  color: white;
-  text-align: center;
-  overflow: hidden;
-}
-
-.scene {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-}
-
-.hidden {
-  display: none;
-}
+let dialogues = [
+  "Shadow! You're late!",
+  "Hmph! I am the Ultimate Lifeform. Matters of time mean nothing to me.",
+  "... What am I late for again?",
+  "Duh! Your wedding!",
+  "WEDDING?!",
+  "Yeah. Sonic has been waiting at the altar for hours—",
+  "SONIC?! THAT IDIOT? THAT STUBBORN PRICK?",
+  "UGH.",
+  "So... you're not gonna marry him?",
+  "Don't be preposterous, Amy Rose. Of course I am. Let's go.",
+  "Scene change... Maze in the Sky...",
+  "I dunno. Maybe Tails left his maze designs behind?",
+  "How pathetic.",
+  "Now hurry!! We've only rented the venue till eight!!!",
+  "Wait a minute... that's the chaos emerald. Maybe I can use it.",
+  "CHAOS CONTROL!!!",
+  "Scene: A Lake. Shortcut from Rouge.",
+  "This will hopefully let us reach Sonic in time.",
+  "Aww Shadow, are you worried about him?",
+  "Worried? No. I just can't wait to beat up his stupid goofy face.",
+  "CHAOS CONTROL!!!",
