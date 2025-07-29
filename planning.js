@@ -63,4 +63,37 @@ SHADOW: Of course I am. Let'g go.
 
 *Scene changes. Shadow finds himself in a maze in the sky*
 
+AMY: I dunno. Maybe Tails left his maze designs behind?
+SHADOW: How pathetic.
+*For those who don't know, Shadow has a long standing unspoken beef for Tails, and maintains a desire to beat him up in every universe. No one knows why.*
+AMY: Whatever, Shadow.
+AMY: Now hurry!! We'ev only rented the venue till eight!!!
+SHADOW: Ugh.
+*Shadow spots a chaos emerald at the end of the maze.*
+SHADOW: Wait a minute...that's the chaos emerald.
+SHADOW: Maybe I can use it.
+*The player must make Shadow travel across the maze using the arrow keys to reach the gem on the other side.*
+*When Shadow is near the gem, he reaches out to it. Upon touching the gem, he yells-*
+SHADOW: CHAOS CONTROL!!!💚
+*Like he always does. And the gem promptly transports him to the next level of the game.*
+
+*Shadow ends up in a pretty lake surrounded by mountains, Amy with him. The borders of a maze are still there, but they are different this time.*
+
+SHADOW: A lake?
+SHADOW: Amy...are you sure we're going the right way?
+AMY: Yup!
+AMY: Rouge said this was a shortcut. She found it with Knuckles when they got lost one time. :)
+SHADOW: Amusing.
+SHADOW: This will hopefully let us reach Sonic in time.
+AMY: Aww Shadow, are you worried about him?
+AMY: That's so sweet of you. <3
+SHADOW: Worried?
+SHADOW: No. I just can't wait to beat uo his stupid goofy face.
+AMY: ~I know when you're lyingggggg.~
+AMY: ~You careeee about him.~
+SHADOW: Shut up.
+*The player now moves Shadow to the next chaos emerald, using the arrow keys once again. This time is slightly more simpler, as the maze is a bit easier.*
+*Shadow reaches the emerald.*
+SHADOW: CHAOS CONTROL!!!💚
+
 */
