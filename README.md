@@ -36,7 +36,7 @@ The answer, to my surprise, turned out to be "everything."
 
 <div align="center">
     <img src="https://i.imgur.com/vfYRkdl.png" 
-         style="width: 35%;">
+         style="width: 55%;">
 </div>
 
 #
