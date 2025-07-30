@@ -25,9 +25,8 @@ Shadow the Hedgehog woke up to two surprises today. One: He’s getting married 
 # Take a sneak peek!
 
 <div align="center">
-    <img src="[https://i.imgur.com/MxmaqU1.png](https://i.imgur.com/vfYRkdl.png)" 
+    <img src="https://i.imgur.com/vfYRkdl.png" 
          style="width: 35%;">
-  </a>
 </div>
 
 #
