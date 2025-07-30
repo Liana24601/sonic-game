@@ -40,7 +40,7 @@ Shadow the Hedgehog woke up to two surprises today. One: He’s getting married 
 
 #
 
-> Play it here! Press "run game" and click through the game to play! **[Game link :)](https://lianadothallik.itch.io/red-stains-gold-eyes)**
+> Play it here! Press "run game" and click through the game to play! **[Game link :)]([https://lianadothallik.itch.io/red-stains-gold-eyes](https://lianadothallik.itch.io/sprinting-to-sonic-a-maze))**
 
 # Also!!
 
