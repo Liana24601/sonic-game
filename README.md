@@ -59,9 +59,7 @@ The answer, to my surprise, turned out to be "everything."
 
 # How to Play
 
-- It's pretty simple!
-- Use the arrow keys to maneuver Shadow out of the maze 
-- Enjoy!
+It's pretty simple! Use the arrow keys to maneuver Shadow out of the maze :) Have fun!
 
 <div align="center">
 
