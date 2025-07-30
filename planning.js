@@ -96,4 +96,53 @@ SHADOW: Shut up.
 *Shadow reaches the emerald.*
 SHADOW: CHAOS CONTROL!!!💚
 
+*Shadow and Amy end up in pretty flower garden, but in a very very complex and time consuming maze.*
+AMY: Wow, it's so pretty!!
+SHADOW: I guess.
+AMY: You knowwww...
+AMY: You should pick a flower for Sonic!!
+AMY: As a wedding gift. ;)
+SHADOW: Maybe.
+SHADOW: But knowing him, he'd like a chilli dog better.
+AMY: Ha ha.
+AMY: Classic Sonic.
+*The player now moves Shadow to the next chaos emerald, using the arrow keys once again.*
+SHADOW: CHAOS CONTROL!!!💚
+
+*The next maze is in the form of a heart, and is set in an orange desert. It is VERY complex, and is the hardest level of them all.*
+SHADOW: This maze is...different than the others.
+*The notorious Dr. Eggman appears. He is the main antagonist in the Sonic franchise, always up to some evil deed.*
+EGGMAN: Hello there Shadow!
+EGGMAN: Not the hedgehog I expected to see, but no matter!
+EGGMAN: You're just in time for my despicably evil plan. >:D
+SHADOW: Ugh. It's Eggman.
+SHADOW: How irritating.
+SHADOW: Whatever mediocre scheme you're planning has to wait.
+SHADOW: Sonic and I are getting married today.
+SHADOW: So get out of my way.
+EGGMAN: YOU AND SONIC ARE GETTING MARRIED?!
+SHADOW: Obviously.
+EGGMAN: Splendid! Cubot owes me five dollars.
+EGGMAN: You see, I always knew there was something there hee hee.
+EGGMAN: Congratulations!
+EGGMAN: But you still have to pass my evil maze, MWA HA HA!!
+SHADOW: EGGMAN. >:(
+*But Eggman disappears dramatically in a huge explosion, and Shadow is left alone to ponder.*
+SHADOW: Ugh.
+SHADOW: I need to get that damn fourth chaos emerald.
+*The player now moves Shadow to the next chaos emerald, using the arrow keys once again. This time is very difficult as the maze is HUGE. But it's manageable.*
+SHADOW: CHAOS CONTROL!!!💚
+
+*The scene shifts to the wedding scene on the beach at sunset. There is a row of chairs and an altar close to the ocean.*
+*Sonic and Amy are waiting until Shadow runs in.*
+AMY: You made it!!!
+SONIC: *grins* Took you long enough!
+SONIC: Almost thought you were about to run away with someone else, ha ha!
+SHADOW: Maybe I should have. Another person wouldn't be this annoying. 😏
+SONIC: Heh, you know you love me.
+SHADOW: Unfortunately...
+SHADOW: I do too, Sonic. :)
+
+*END: the background becomes a black slide with white words which say "The End". there are two hearts, one blue and one red to represent sonic and shadow*
+
 */
