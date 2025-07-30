@@ -57,7 +57,17 @@ The answer, to my surprise, turned out to be "everything."
 
 #
 
-> Play it here! Press "run game" and click through the game to play! Use the arrow keys to control Shadow! **[Game link :)](https://lianadothallik.itch.io/sprinting-to-sonic-a-maze)**
+# How to Play
+
+- It's pretty simple!
+- Use the arrow keys to maneuver Shadow out of the maze 
+- Enjoy!
+
+<div align="center">
+
+#
+
+> Play it here! Press "run game" and play **[Game link :)](https://lianadothallik.itch.io/sprinting-to-sonic-a-maze)**
 
 # Also!!
 
