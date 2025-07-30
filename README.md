@@ -12,7 +12,7 @@
 
 # The Game
 
--
+Shadow the Hedgehog woke up to two surprises today. One: He’s getting married in a few hours. And two: He’s getting married to Sonic the Hedgehog, his rival, frenemy, and the cocky idiot who keeps messing up his plans. But that’s not the problem here. The wedding is waiting for him and Shadow is late. With Amy’s help, can Shadow the Hedgehog rush to the altar, confront obstacles in his way, and successfully marry the Blue Blur? Play to find out!
 
 #
 
