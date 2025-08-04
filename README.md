@@ -20,7 +20,7 @@ Shadow the Hedgehog woke up to two surprises today. One: He’s getting married 
 
 To pay homage to my deeply obsessive and addicting obsession with Sonic the Hedgehog, I have decided to create my very own Sonic the Hedgehog game.
 Whether it's the popular (and hilarious) Sonic movies, the Netflix show "Sonic Prime", the IDW comics, or the copious amounts of fan content that exists on the internet and social media platforms, I have always harbored a strong and fond interest for a singular character: Shadow the Hedgehog.
-With his compelling character arc, awesome design, "I don't care" attitude, and tear-worthy backstory, what's not to love about Shadow the Hedgehog, a character who almost always stole the show with his red highlights and air shoes.
+With his compelling character arc, awesome design, "I don't care" attitude, and tear-worthy backstory, what's not to love about Shadow the Hedgehog, a character who almost always stole the show with his red highlights and ridiculous air shoes.
 However, canon Shadow content is very limited. He barely got any screentime in Sonic Prime and Sonic Boom. Only one movie has been made on him so far. Sonic is often given importance over him.
 I was dissapaointed, as I did not get to see much of Shadow during shows and movies, and was too broke to afford the games. 
 Therefore, I decided to create the next biggest project of my life: A homemade video game starring Shadow the Hedgehog.
